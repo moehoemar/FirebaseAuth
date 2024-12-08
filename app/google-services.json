@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "656037912217",
+    "project_id": "fir-auth-53848",
+    "storage_bucket": "fir-auth-53848.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656037912217:android:a79aed3e5e229bbd906208",
+        "android_client_info": {
+          "package_name": "com.dicoding.myfirebasechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656037912217-o6hiifjc44j8ldpojp469a69n0rmllkk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dicoding.myfirebasechat",
+            "certificate_hash": "9757145df8540d6114ed569b0252237d65dd0391"
+          }
+        },
+        {
+          "client_id": "656037912217-vptl5fcdlueukd05rfttn156krj1hnqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKL9wfZEcFfqiqgkihvVDPf2_jmMy_xzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656037912217-vptl5fcdlueukd05rfttn156krj1hnqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
