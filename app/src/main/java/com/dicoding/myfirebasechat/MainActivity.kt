@@ -1,7 +1,7 @@
 package com.dicoding.myfirebasechat
 
 import android.content.Intent
-import android.credentials.CredentialManager
+import androidx.credentials.CredentialManager
 import android.os.Bundle
 import android.view.Menu
 import android.view.MenuItem
